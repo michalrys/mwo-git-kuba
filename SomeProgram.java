@@ -9,4 +9,6 @@ public class SomeProgram {
     public void manageTheSatellite() {
     // TODO implement later
     }
+	
+	// some changes
 }
